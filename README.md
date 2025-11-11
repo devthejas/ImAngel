@@ -39,7 +39,7 @@ text
 
 ### Installation
 
-git clone https://github.com/createwithathuldas/ImAngel.git
+git clone https://github.com/devthejas/ImAngel.git
 cd ImAngel
 
 text
@@ -168,9 +168,9 @@ MIT License (see LICENSE file). Stable Diffusion models have their own licenses.
 ## 📧 Contact
 
 Your Name - [createwithathuldas@gmail.com](mailto:createwithathuldas@gmail.com)  
-GitHub: [https://github.com/createwithathuldas/ImAngel.git](https://github.com/createwithathuldas/ImAngel.git)  
+GitHub: [https://github.com/devthejas/ImAngel.git](https://github.com/devthejas/ImAngel.git)  
 LinkedIn: [https://www.linkedin.com/in/athul-das-760105284/](https://www.linkedin.com/in/athul-das-760105284/)  
-Portfolio: [https://createwithathuldas.github.io/portfolio/](https://createwithathuldas.github.io/portfolio/)  
+Portfolio: [https://devthejas.github.io/thejas-ks-portfolio/](https://devthejas.github.io/thejas-ks-portfolio/)  
 
 <div align="center">
 ⭐ Star this repo if you find it helpful!  
